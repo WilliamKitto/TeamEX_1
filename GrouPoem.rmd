@@ -1,0 +1,25 @@
+---
+title: "TeamEX_1"
+author: "Math_116"
+date: "May 30, 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Build a Poem with teamwork
+Our project will be done using github and pull requests. The team leader will merge pull requests from team members to create the complete poem. Members will update their repos with pull.
+
+## First Verse
+<Team Lead will put their Name on the next line, followed by a short poem 8-20 lines >
+
+
+## Second Verse
+<Team Captain will put their Name on the next line, followed by a short poem 8-20 lines >
+
+## Third Verse
+<Team Sargent  will put their Name on the next line, followed by a short poem 8-20 lines >
+
+## Last Verse
+<Team corporel  will put their Name on the next line, followed by a short poem 8-20 lines >
